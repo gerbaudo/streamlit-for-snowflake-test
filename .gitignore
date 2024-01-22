@@ -3,6 +3,8 @@ build/
 venv/
 st4sn/
 
+animated/*.html
+
 *.log
 *.exe
 *.spec
